@@ -27,7 +27,7 @@
 [info21_v1](https://github.com/GTimsan/info21_v1) анализ и статистика данных.  
 
 #### Python:
-[bot_for_hackathon](https://github.com/GTimsan/bot_for_hackathon) учавстовал в двухдневном😆 хакатоне от школы. aiogram + django + postgresql + docker  
+[bot_for_hackathon](https://github.com/GTimsan/bot_for_hackathon) участвовал в двухдневном😆 хакатоне от школы. aiogram + django + postgresql + docker  
 
 ### Контакты
 [Telegram](https://t.me/Botoplav) @Botoplav
