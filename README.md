@@ -13,7 +13,7 @@
 [3DViewer_v1](https://github.com/GTimsan/3DViewer_v1) супер3двьхер(С + СPP), читаем описание 😎.  
 
 #### C++:
-[my_matrix_oop_lib](https://github.com/GTimsan/my_matrix_oop_lib) ООПшная реализация matrix на плюсах.  
+[my_matrix_oop_lib](https://github.com/GTimsan/my_matrix_oop_lib) ООП реализация matrix на плюсах.  
 [my_containers] в разработке... 🚀  
 [SmartCalc_v2] в разработке...  
 [3DViewer_v2] в разработке...  
