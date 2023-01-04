@@ -18,7 +18,7 @@
 [SmartCalc_v2] в разработке...  
 [3DViewer_v2] в разработке...  
 
-#### Bash\Shell:
+#### Linux, Bash\Shell:
 [Linux_Monitoring_1](https://github.com/GTimsan/Linux_Monitoring_1) изучаем Linux и учимся писать скрипты на bash/shell 😆.  
 [Linux_Monitoring_2](https://github.com/GTimsan/Linux_Monitoring_2) продолжаем... + знакомимся с Prometheus, Grafana, GoAccess.  
 
