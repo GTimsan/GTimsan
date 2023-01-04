@@ -21,6 +21,7 @@
 #### Linux, Bash\Shell:
 [Linux_Monitoring_1](https://github.com/GTimsan/Linux_Monitoring_1) изучаем Linux и учимся писать скрипты на bash/shell 😆.  
 [Linux_Monitoring_2](https://github.com/GTimsan/Linux_Monitoring_2) продолжаем... + знакомимся с Prometheus, Grafana, GoAccess.  
+[Основы сетей Linux](https://github.com/GTimsan/LinuxNetwork) настраиваем сеть на примере 5 виртуальных машин и многое другое)
 
 #### SQL(PostgreSQL): 
 [sql_intensive](https://github.com/GTimsan/sql_intensive) интенсив по SQL🐘.  
