@@ -17,6 +17,7 @@
 [my_containers] в разработке... 🚀  
 [SmartCalc_v2] в разработке...  
 [3DViewer_v2] в разработке...  
+[about_sockets] (https://github.com/GTimsan/about_sockets) Проект по сокетам 
 
 #### Linux, Bash\Shell:
 [Linux_Monitoring_1](https://github.com/GTimsan/Linux_Monitoring_1) изучаем Linux и учимся писать скрипты на bash/shell 😆.  
